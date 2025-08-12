@@ -38,4 +38,4 @@
 ---
 
 ### ⚡ Fun Fact
-*"Code is like humor — when you have to explain it, it’s bad."* 😄
+*"I measure productivity in cups of coffee, not lines of code."* 😄

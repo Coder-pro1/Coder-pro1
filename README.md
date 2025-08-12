@@ -42,15 +42,15 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nivin-sithija-seneviratne/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="mailto:sithijaseneviratne@gmail.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-</a>
-<a href="https://github.com/Coder-pro1">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/nivin-sithija-seneviratne/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:sithijaseneviratne@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Coder-pro1">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
 ---

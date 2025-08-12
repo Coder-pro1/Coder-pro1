@@ -28,31 +28,13 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Coder-pro1&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-pro1&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-pro1E&theme=radical" height="165"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-pro1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nivin-sithija-seneviratne/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:sithijaseneviratne@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/Coder-pro1">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="40" height="40"/>
-  </a>
-</p>
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivin-sithija-seneviratne/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sithijaseneviratne@gmail.com) 
 ---
 
 ### ⚡ Fun Fact

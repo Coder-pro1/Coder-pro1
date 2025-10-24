@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nivin Sithija  </h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi I'm Nivin Sithija  </h1>
+<h3 align="center"> Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Computer Science Undergraduate** at University of Moratuwa
-- 💼 Actively seeking **Full-Stack / Software Engineer** opportunities
-- 💡 Love building **scalable apps** and solving real-world problems
-- 🌱 Currently learning: **DBMS** & **REACT- Java Script**
-- 🤝 Open to collaborate on **Open Source** & **Startup projects**
+###  About Me
+-  **Computer Science Undergraduate** at UOM LK
+- Love building and developing solutions for solving real-world problems
+- Open to collaborate on **Open Source** & **Startup projects**
 - 📫 Reach me at: **sithijaseneviratne@gmail.com**
 
 ---
@@ -38,4 +36,4 @@
 ---
 
 ### ⚡ Fun Fact
-*"I measure productivity in cups of coffee, not lines of code."* 😄
+*"I measure productivity in cups of coffee, not lines of code."* 

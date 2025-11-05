@@ -37,3 +37,12 @@
 
 ### ⚡ Fun Fact
 *"I measure productivity in cups of coffee, not lines of code."* 
+<p align="left>
+  <a href="https://holopin.io/@coderpro1">
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="70" alt="Holopin Super Contributor Badge"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" width="65" alt="Holopin Level 4 Astronaut Badge"/>
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="65" alt="Holopin Badge 1"/>
+    
+  </a>
+</p>
+
